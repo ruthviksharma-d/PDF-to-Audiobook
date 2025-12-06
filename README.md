@@ -96,3 +96,6 @@ Have an idea? Found a bug? Want a new feature?
 If this tool helps you, don’t forget to **star** the repository!
 
 ---
+
+<br>
+<p align="right"><em>Made with ❤️ by ruthvik sharma</em></p>
